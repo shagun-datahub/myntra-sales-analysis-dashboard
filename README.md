@@ -38,5 +38,4 @@ This project focuses on analyzing Myntra sales data using Microsoft Excel to unc
 
 ## Files Included
 - Excel dashboard file
-- Dataset used for analysis
 - Dashboard screenshots
