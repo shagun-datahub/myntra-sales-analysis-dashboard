@@ -4,7 +4,7 @@
 This project focuses on analyzing Myntra sales data using Microsoft Excel to uncover customer behavior patterns and business insights. An interactive dashboard was created to visualize key performance indicators and support data-driven decision-making.
 
 ## Dashboard-
-![image alt](https://github.com/shagun-datahub/myntra-sales-analysis-dashboard/blob/dfd95026201d3817fd75415cedbbec2e4d9b62d5/Screenshot%202026-06-09%20144508.png)
+![image alt](https://github.com/shagun-datahub/myntra-sales-analysis-dashboard/blob/9e3cd19cdfd2a7251f657bcb4e14e7fd03da5137/Screenshot.png)
 
 ## Objectives
 - Analyze Myntra sales performance
